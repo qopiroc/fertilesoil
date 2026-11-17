@@ -1,0 +1,6 @@
+{
+  "block.fertilesoil.fertile_soil": "Fertile Soil",
+  "message.fertilesoil.remaining": "Bone meal effect: %s left",
+  "message.fertilesoil.inactive": "No bone meal effect. Crops grow 2.5x faster",
+  "message.fertilesoil.full": "Bone meal storage is full"
+}

@@ -1,0 +1,6 @@
+{
+  "block.fertilesoil.fertile_soil": "Плодородная земля",
+  "message.fertilesoil.remaining": "Костная мука действует ещё: %s",
+  "message.fertilesoil.inactive": "Костной муки нет. Растения растут в 2,5 раза быстрее",
+  "message.fertilesoil.full": "Запас костной муки заполнен"
+}

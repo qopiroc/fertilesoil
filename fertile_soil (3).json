@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["DDD", "DBD", "DDD"],
+  "key": {
+    "D": { "item": "minecraft:dirt" },
+    "B": { "item": "minecraft:bone_meal" }
+  },
+  "result": { "id": "fertilesoil:fertile_soil", "count": 8 }
+}

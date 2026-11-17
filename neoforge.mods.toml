@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="fertilesoil"
+version="1.0.0"
+displayName="Fertile Soil"
+description='''
+Плодородная земля: любые посевы (в том числе из других модов) растут в 2,5 раза быстрее,
+а с костной мукой — в 5 раз.
+'''
+
+[[dependencies.fertilesoil]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.fertilesoil]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

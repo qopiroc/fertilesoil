@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "fertilized=false": { "model": "fertilesoil:block/fertile_soil" },
+    "fertilized=true":  { "model": "fertilesoil:block/fertile_soil_fertilized" }
+  }
+}
